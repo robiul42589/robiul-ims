@@ -1,6 +1,0 @@
-{
-  "name": "Robiul - Information Management System",
-  "description": "রবিউল - ব্যক্তিগত ও পারিবারিক ইনফরমেশন ম্যানেজমেন্ট সিস্টেম (পরিবার, শিক্ষা ও দক্ষতা, জমি ও সম্পদ বিবরণী, দায়-দেনা, চাকুরীর ইতিহাস, ব্যাকআপ ও এআই সহকারী)।",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
